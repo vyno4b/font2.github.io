@@ -148,7 +148,7 @@ table.cart td.actions div.coupon .button:hover,
   border-color: #9F9F9F; }
 
 .top-bar.top-bar-v4 {
-  border-bottom-color: #0071f0; }
+  border-bottom-color: #D6D4D4; }
 
 .price,
 .features-list .feature i,
@@ -228,25 +228,25 @@ article.post .post-readmore .btn-primary,
 .pings-list #respond .comment-reply-title small:hover,
 .comment-list #respond .comment-reply-title small a:focus,
 .pings-list #respond .comment-reply-title small a:focus {
-  color: #057bff; }
+  color: #D6D4D4; }
 
 .top-bar.top-bar-v4 a,
 .site-header.header-v4 .site-header-cart .cart-contents .amount .price-label {
-  color: #b2d7ff; }
+  color: #DBDBDB; }
 
 .site-header.header-v4 .navbar-search button,
 .site-header.header-v5 .navbar-search button,
 .widget_shopping_cart .product_list_widget .mini_cart_item .remove,
 .widget_shopping_cart_content .product_list_widget .mini_cart_item .remove,
 .site-header.header-v4 .site-header-cart .cart-contents .count {
-  background-color: #0076fa; }
+  background-color: #D6D4D4; }
 
 .section-landscape-products-widget-carousel.product-widgets .section-header:after {
   border-bottom-color: #C5C5C5; }
 
 .site-header.header-v4 .site-branding .cls-3,
 .site-header.header-v5 .site-branding .cls-3 {
-  fill: #8ac1ff; }
+  fill: #DBDBDB;}
 
 .btn-primary,
 .wcmp_main_page .wcmp_ass_btn,
